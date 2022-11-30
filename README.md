@@ -1,3 +1,3 @@
 # Super amazing DSCI 100 project!
 
-Everything TBD
+Everything is no longer TBD
